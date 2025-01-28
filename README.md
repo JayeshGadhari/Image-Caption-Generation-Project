@@ -28,8 +28,7 @@ graph TD
 ## Setup and Installation
 ### Clone the repository
 ```
-git clone https://github.com/eknathmali/Image-Caption-generator-using-VGG16-LSTM.git
-cd Image-Caption-generator-using-VGG16-LSTM
+[git clone https://github.com/JayeshGadhari/Image-Caption-Generation-Project
 ```
 
 ### Install required packages
@@ -52,6 +51,3 @@ BLEU-2: 0.060709
 4. `Fine-tuning hyperparameters:` Experiment with different batch sizes, learning rates, and model architectures to optimize performance.
 Use a larger dataset: Consider using a larger dataset like Flickr30k or MSCOCO for more diverse training data.
 
-## Contact
-
-[LinkedIn](https://www.linkedin.com/in/eknath-mali/ 'LinkedIn Profile')
